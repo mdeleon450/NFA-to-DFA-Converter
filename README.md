@@ -1,2 +1,2 @@
 # NFA-to-DFA-Converter
-Converts a Nondeterministic Finite Automata to a Deterministic Finite Automata
+A java program that Converts a Nondeterministic Finite Automata to a Deterministic Finite Automata
